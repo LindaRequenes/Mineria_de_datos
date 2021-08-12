@@ -1,4 +1,4 @@
-# FCFM - Mineria de Datos 
+# FCFM - Minería de Datos 
 
 ## Fase I
 
