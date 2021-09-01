@@ -8,6 +8,8 @@
 
 [Ejercicios Básicos Python 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Ej_Python_1854552.ipynb)
 
+[Ejercicio Limpieza de Datos](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
+
 ## Fase II
 
 
