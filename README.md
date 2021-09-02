@@ -10,7 +10,9 @@
 
 [Ejercicio Limpieza de Datos](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
-[Avance 1 PIA](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
+[Avance 1 PIA (opción 1)](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
+
+[Avance 1 PIA (opción 2)](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance1_PIA(Op_2)_Equipo4.ipynb)
 
 ## Fase II
 
