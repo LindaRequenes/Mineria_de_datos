@@ -17,7 +17,7 @@
 ## Fase II
 [Presentación Series de Tiemppo](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4.pdf)
 
-[Presentación Series de Tiempo (respuestas a preguntas)](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4%20(respuestas%20a%20preguntas).pdf)
+[Respuestas a preguntas - Presentación Series de Tiempo](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4%20(respuestas%20a%20preguntas).pdf)
 
 [Programa - Presentación Series de Tiempo](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentaci%C3%B3n.ipynb)
 
