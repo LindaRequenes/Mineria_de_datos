@@ -21,7 +21,7 @@
 
 - [Presentación Series de Tiempo - Código](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentaci%C3%B3n.ipynb)
 
-- [Practica 2 - Base de Datos Principal](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb) 
+- [Avance 2 PIA](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb) 
 
 - [Practica de Visualización](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb) 
 
